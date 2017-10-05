@@ -1,0 +1,1 @@
+gcc foo.c -o foo
